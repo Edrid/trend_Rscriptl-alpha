@@ -79,10 +79,7 @@ lastSize = -1
 j = 0
 
 #purtroppo R non ha il do while.. closest thing è il break alla fine
-
-# ALLORA, NEL MODO SEGUENTE MANTENGO LE INFORMAZIONI PER IL CALCOLO DELLA MEDIA.
-# Creo una lista di due elementi, ogni elemento è un vettore. listaMese ha 1)valori 2) pesi 
-# I pesi permettono di fare la divisione per la media, l'accesso si fa col dollaro, quindi: listaMese$valori, oppure listaMese$pesi
+tono di fare la divisione per la media, l'accesso si fa col dollaro, quindi: listaMese$valori, oppure listaMese$pesi
 
 # inizializzo le liste mese, giorno, settimana
 listaMese = list()
